@@ -123,5 +123,5 @@ return sing()
 
 ```
 
-[yt-vid]:			https://www.youtube.com/watch?v=ESx_hy1n7HA)
+[yt-vid]:			https://www.youtube.com/watch?v=ESx_hy1n7HA
 [inspiration-repo]:	https://github.com/daun-io/world.execute.me.py
