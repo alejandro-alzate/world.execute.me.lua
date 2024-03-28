@@ -1,14 +1,3 @@
-# world.execute(me).lua
-Moonscript implementation of [Mili - world.execute(me)][yt-vid]
-
-This was supposed to be a pure lua implementation but couldn't be bothered
-dealing with meta tables, so i used moonscript to deal with the oop side of
-things, this repo itself is an inspiration of [This one][inspiration-repo]
-Pure lua "compiled" files are pre-built already.
-
-since moonscript is so niche i will not be syntactically highlighted here is the lua on the readme:
-
-```lua
 require("objects")
 local main
 main = function()
@@ -120,8 +109,3 @@ main = function()
 end
 main()
 return sing()
-
-```
-
-[yt-vid]:			https://www.youtube.com/watch?v=ESx_hy1n7HA)
-[inspiration-repo]:	https://github.com/daun-io/world.execute.me.py
